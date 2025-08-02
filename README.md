@@ -38,5 +38,10 @@ Hi! I’m Murerwa Daniel, a passionate web developer in the making. I love learn
 Have a project or opportunity to collaborate? Reach out using the contact form on my site!
 
 Use Github [here](https://github.com/MURERWADANIEL1)
+<<<<<<< HEAD
+=======
+
+Use my personal email [here](murerwadaniel1@gmail.com)
+>>>>>>> 710fca856fcd6d29494d57330fea471b2479c61a
 
 Use my personal email [here](murerwadaniel1@gmail.com)
