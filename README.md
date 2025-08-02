@@ -21,23 +21,22 @@ Hi! I’m Murerwa Daniel, a passionate web developer in the making. I love learn
 ## 💼 Projects and Repos
 ### 1. Using Machine Learning to process respiratory sounds
  - Description: A machine learning model for auto-detection of common  cardio-pulmonary conditions
- - https://github.com/MURERWADANIEL1/ML
+ - The project link is [here](https://github.com/MURERWADANIEL1/ML)
 ### 2. Smart Stethoscope Monitoring App (In-development)
 - Description: A responsive application for displaying real-time predictions from audio diagnosis model.
-- https://github.com/MURERWADANIEL1/My_first_app
+- The Project link is [here](https://github.com/MURERWADANIEL1/My_first_app)
 
 ### 3. Data Science Learning
 - Description: A repo for tracking all Data Science learnings at AltSchool Africa.
-- https://github.com/MURERWADANIEL1/DataScience
+- Learning link is [here](https://github.com/MURERWADANIEL1/DataScience)
 
 ### 4. PLP Learning
 - Description: A repo for tracking all Software Learnings at Power Learn Project Academy.
-- https://github.com/MURERWADANIEL1/PLPAcademy
+- Learning link is [here](https://github.com/MURERWADANIEL1/PLPAcademy)
 
 ## 📬 Contact Me
 Have a project or opportunity to collaborate? Reach out using the contact form on my site!
 
-https://github.com/MURERWADANIEL1
+Use Github [here](https://github.com/MURERWADANIEL1)
 
-murerwadaniel1@gmail.com
-
+Use my personal email [here](murerwadaniel1@gmail.com)
